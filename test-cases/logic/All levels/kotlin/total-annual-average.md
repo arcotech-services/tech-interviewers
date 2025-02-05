@@ -12,6 +12,7 @@ Requisitos:
 - Exiba as médias de cada bimestre e a média anual ao final.
 - As notas devem estar pré-definidas no código (não será necessário o usuário digitar).
 
+### Exemplo
 
 ```kotlin
 data class Nota(val valor: Double) {
@@ -57,4 +58,14 @@ fun main() {
 
     println("Média Anual: $mediaAnual")
 }
+```
+
+#### Saída
+
+```shell
+Bimestre 1: Média = 8.63
+Bimestre 2: Média = 7.75
+Bimestre 3: Média = 8.0
+Bimestre 4: Média = 8.5
+Média Anual: 8.22
 ```
