@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="margin-bottom: 20px;">
   <img width="100%" src="https://i.ibb.co/v6Wk7C8X/tech-interview-arcotech.png" alt="tech-interview-arcotech" border="0">
 </div>
 
